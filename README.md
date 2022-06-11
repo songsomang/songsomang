@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @songsomang
 - 👀 I’m interested in data anayltics
-- 🌱 I’m currently learning SQL and Python
+- 🌱 I’m currently learning SQL, Python and Tableau
 - 📫 You can reach me through Linkedin, /somangsong1024
 
 <!---
