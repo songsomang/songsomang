@@ -1,18 +1,43 @@
-
 <h1 align="left">Hi 👋, I'm Elena</h1>
-<h4 align="left">Every data point is a character in the story I'm unraveling</h4>
 
 
-- 🌱 I’m currently learning **Machine Learning and Cloud services**
-- 📫 You can reach me through **eleanssong@alumni.unc.edu**
+- 🌱 Currently learning **Machine Learning and Cloud services**
+- 📫 You can reach me through **eleanssong@alumni.unc.edu** </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/somangsong1024" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="somangsong1024" height="30" width="40" /></a>
-</p>
+[![Linkedin: somangsong](https://img.shields.io/badge/-elenasong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/somangsong1024/)
+[![GitHub songsomang](https://img.shields.io/github/followers/songsomang)](https://github.com/songsomang)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+
+```javascript
+const Elena = {
+    pronouns: "She" | "Her",
+    Technical Skills: ["SQL", "Python","Tableau"],
+    currentFocus: "Every data point is a character in the story I'm unraveling",
+    };
+```
+
+
+**I'm perfer Daytime** 
+```text
+🌞 Morning                     ███   12.56 % 
+🌆 Daytime                     ██████████   38.05 % 
+🌃 Evening                     ████   17.59 %  
+🌙 Night                       ████████   31.81 %  
+```
+
+
+**I Mostly Code in Python thesedays** 
+```text
+Python       3 hrs 30 mins     ██████████████████  70 % 
+SQL          1 hr 44 mins      ████ 10 % 
+```
+
+
+
+
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songsomang&show_icons=true&locale=en&layout=compact" alt="songsomang" /></p>
 
