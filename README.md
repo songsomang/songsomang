@@ -4,7 +4,7 @@
 - 🌱 Currently learning **Machine Learning and Cloud services**
 - 📫 You can reach me through **eleanssong@alumni.unc.edu** </p>
 
-[![Linkedin: somangsong](https://img.shields.io/badge/-elenasong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/somangsong1024/)
+[![Linkedin: somangsong](https://img.shields.io/badge/-elenaSong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/in/somangsong1024/)
 [![GitHub songsomang](https://img.shields.io/github/followers/songsomang)](https://github.com/songsomang)
 
 
