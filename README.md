@@ -1,7 +1,8 @@
 <h1 align="left">Hi 👋, I'm Elena</h1>
 
 
-- 🌱 Currently learning **Machine Learning and Cloud services**
+- 🌱 Currently learning **Backend development and Cloud services**
+- Check out my [website](https://elenassong.com/) to learn more about me.
 - 📫 You can reach me through **eleanssong@alumni.unc.edu** </p>
 
 [![Linkedin: somangsong](https://img.shields.io/badge/-elenaSong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/in/somangsong1024/)
@@ -12,8 +13,10 @@
 
 ```javascript
 const Elena = {
-    pronouns: "She" | "Her",
-    Technical Skills: ["SQL", "Python","Tableau"],
+    Technical Skills: ["SQL", "Python","AWS"],
+    Version Control: ["Git", "GitHub"],
+    Orchestration tool: ["Docker", "K8s"],
+    Other: ["Tableau"],
     currentFocus: "Every data point is a character in the story I'm unraveling",
     };
 ```
