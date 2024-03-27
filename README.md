@@ -3,42 +3,24 @@
 
 - 🌱 Currently learning **Backend development and Cloud services**
 - Check out my [website](https://elenassong.com/) to learn more about me.
-- 📫 You can reach me through **eleanssong@alumni.unc.edu** </p>
+- 📫 You can reach me through **eleanssong@alumni.unc.edu** </p> or for quick response, DM me on [![Linkedin: somangsong](https://img.shields.io/badge/-elenaSong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/in/somangsong1024/)
 
-[![Linkedin: somangsong](https://img.shields.io/badge/-elenaSong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/in/somangsong1024/)
-[![GitHub songsomang](https://img.shields.io/github/followers/songsomang)](https://github.com/songsomang)
+## 📦 Toolbox
 
-
-
-
-```javascript
-const Elena = {
-    Technical Skills: ["SQL", "Python","AWS"],
-    Version Control: ["Git", "GitHub"],
-    Orchestration tool: ["Docker", "K8s"],
-    Other: ["Tableau"],
-    currentFocus: "Every data point is a character in the story I'm unraveling",
-    };
-```
+**Programming Languages:** `SQL` `Python`
+**Version Control:** `Git` `GitLab`
+**Orchestration Tool:** `Docker` `K8s` 
+**Others:** `AWS`
+**Skills:** `Data Analysis` `Database Modeling` `Machine Learning` `Statistical Testing` `Project Management (Scrum, Agile)`
 
 
-**I'm perfer Daytime** 
+## I prefer to code during
 ```text
 🌞 Morning                     ███   12.56 % 
-🌆 Daytime                     ██████████   38.05 % 
+🌆 Daytime                     ████████  31.05 % 
 🌃 Evening                     ████   17.59 %  
-🌙 Night                       ████████   31.81 %  
+🌙 Night                       ██████████    38.80 %  
 ```
-
-
-**I Mostly Code in Python thesedays** 
-```text
-Python       3 hrs 30 mins     ██████████████████  70 % 
-SQL          1 hr 44 mins      ████ 10 % 
-```
-
-
-
 
 
 
