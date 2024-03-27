@@ -3,14 +3,19 @@
 
 - 🌱 Currently learning **Backend development and Cloud services**
 - Check out my [website](https://elenassong.com/) to learn more about me.
-- 📫 You can reach me through **eleanssong@alumni.unc.edu** </p> or for quick response, DM me on [![Linkedin: somangsong](https://img.shields.io/badge/-elenaSong-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/somangsong1024/)](https://www.linkedin.com/in/somangsong1024/)
+- 📫 You can reach me through **eleanssong@alumni.unc.edu** or for quick response, DM me on  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/). 
+
 
 ## 📦 Toolbox
 
 **Programming Languages:** `SQL` `Python`
+
 **Version Control:** `Git` `GitLab`
+
 **Orchestration Tool:** `Docker` `K8s` 
+
 **Others:** `AWS`
+
 **Skills:** `Data Analysis` `Database Modeling` `Machine Learning` `Statistical Testing` `Project Management (Scrum, Agile)`
 
 
