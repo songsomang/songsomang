@@ -3,7 +3,7 @@
 
 - 🌱 Currently learning **Backend development and Cloud services**
 - Check out my [website](https://elenassong.com/) to learn more about me.
-- 📫 You can reach me through **eleanssong@alumni.unc.edu** or for quick response, DM me on  For a quick response, DM me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/). 
+- 📫 You can reach me through **eleanssong@alumni.unc.edu** or DM me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/). 
 
 
 ## 📦 Toolbox
@@ -30,10 +30,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songsomang&show_icons=true&locale=en&layout=compact" alt="songsomang" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=songsomang&show_icons=true&locale=en" alt="songsomang" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=songsomang&" alt="songsomang" /></p>
 
 
 
