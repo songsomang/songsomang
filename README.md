@@ -1,5 +1,4 @@
-<h1 align="left">Hi 👋, I'm Elena</h1>
-
+## Hi , I'm Elena👋
 
 - 🌱 Currently learning **Backend development and Cloud services**
 - Check out my [website](https://elenassong.com/) to learn more about me.
@@ -26,18 +25,6 @@
 🌃 Evening                     ████   17.59 %  
 🌙 Night                       ██████████    38.80 %  
 ```
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=songsomang&show_icons=true&locale=en&layout=compact" alt="songsomang" /></p>
-
-
-
-
-
-
-
-
 
 
 <!---
