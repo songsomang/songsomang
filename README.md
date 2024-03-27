@@ -2,8 +2,8 @@
 
 I'm continuously seeking new opportunities to enhance my coding skills and expertise. Developer by day, coder by night. 
 - 🌱 Currently learning **Backend development and Cloud services**
-- Check out my [website](https://elenassong.com/) to learn more about me.
-- 📫 You can reach me through **eleanssong@alumni.unc.edu** or DM me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/). 
+- Check out my **[website](https://elenassong.com/)** to learn more about me.
+- 📫 You can reach me through **eleanssong@alumni.unc.edu** or DM me on **[LinkedIn](https://www.linkedin.com/in/somangsong1024/)**. 
 
 
 ## 📦 Toolbox
