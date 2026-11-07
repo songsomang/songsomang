@@ -7,8 +7,7 @@ I'm passionate about applying statistical methods and data science to clinical r
 - 🎓 Currently pursuing an **M.S. in Biostatistics at Duke University**
 - 🔬 Interested in **Clinical Trials, Real-World Evidence, and Biomedical Research**
 - 🌱 Currently strengthening my skills in **Statistical Modeling, R Programming, and Clinical Data Analysis**
-- 🌐 Learn more about me on my [website](https://elenassong.com/)
-- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/) or reach me at **eleanssong@alumni.unc.edu**
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/) or reach me at **elena.song@duke.edu**
 
 ## 📦 Toolbox
 
@@ -19,8 +18,6 @@ I'm passionate about applying statistical methods and data science to clinical r
 **Data Science & Analytics:** `Data Cleaning` `Exploratory Data Analysis` `Data Visualization` `ETL`
 
 **Tools & Technologies:** `RStudio` `Jupyter Notebook` `Git` `GitHub` `Tableau`
-
-**Research Interests:** `Clinical Trials` `Real-World Evidence` `Causal Inference` `Biomedical Data Science`
 
 
 ## 💻 I prefer to code during
