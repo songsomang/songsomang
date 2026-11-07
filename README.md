@@ -1,21 +1,26 @@
-## Hi , I'm Elena👩🏻‍💻👋🏻
-I'm continuously seeking new opportunities to enhance my coding skills and expertise. Developer by day, coder by night. 
-- 🌱 Currently learning **Backend development and Cloud services**
-- Check out my **[website](https://elenassong.com/)** to learn more about me.
-- 📫 You can reach me through **eleanssong@alumni.unc.edu** or DM me on **[LinkedIn](https://www.linkedin.com/in/somangsong1024/)**. 
+## Hi, I'm Elena! 👩🏻‍💻👋🏻
 
+I'm a **Master of Biostatistics student at Duke University**, with a background in biotechnology and biomedical informatics.
+
+I'm passionate about applying statistical methods and data science to clinical research and healthcare. My interests include **clinical trials, real-world evidence (RWE), and causal inference**.
+
+- 🎓 Currently pursuing an **M.S. in Biostatistics at Duke University**
+- 🔬 Interested in **Clinical Trials, Real-World Evidence, and Biomedical Research**
+- 🌱 Currently strengthening my skills in **Statistical Modeling, R Programming, and Clinical Data Analysis**
+- 🌐 Learn more about me on my [website](https://elenassong.com/)
+- 📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/somangsong1024/) or reach me at **eleanssong@alumni.unc.edu**
 
 ## 📦 Toolbox
 
-**Programming Languages:** `SQL` `Python`
+**Programming Languages:** `R` `Python` `SQL`
 
-**Version Control:** `Git` `GitLab`
+**Statistical Methods:** `Hypothesis Testing` `Regression Analysis` `ANOVA` `Statistical Modeling`
 
-**Orchestration Tool:** `Docker` `K8s` 
+**Data Science & Analytics:** `Data Cleaning` `Exploratory Data Analysis` `Data Visualization` `ETL`
 
-**Others:** `AWS`
+**Tools & Technologies:** `RStudio` `Jupyter Notebook` `Git` `GitHub` `Tableau`
 
-**Skills:** `Data Analysis` `Database Modeling` `Machine Learning` `Statistical Testing` `Project Management (Scrum, Agile)`
+**Research Interests:** `Clinical Trials` `Real-World Evidence` `Causal Inference` `Biomedical Data Science`
 
 
 ## 💻 I prefer to code during
